@@ -1,0 +1,31 @@
+[{
+        "itemid": "sample1",
+        "parent": "",
+        "property": 13
+    },
+    {
+        "itemid": "sample2",
+        "parent": "sample1",
+        "property": 43
+    },
+    {
+        "itemid": "sample3",
+        "parent": "sample2",
+        "property": 23
+    },
+    {
+        "itemid": "sample5",
+        "parent": "",
+        "property": 4
+    },
+    {
+        "itemid": "sample6",
+        "parent": "sample5",
+        "property": 4
+    },
+    {
+        "itemid": "sample7",
+        "parent": "sample5",
+        "property": 4
+    }
+]
